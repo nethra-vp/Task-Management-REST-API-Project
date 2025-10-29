@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Python
+venv/
+__pycache__/
+
+# macOS & Windows junk
+.DS_Store
+Thumbs.db
