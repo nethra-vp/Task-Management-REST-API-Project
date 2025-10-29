@@ -123,7 +123,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5ldGhyYSIsImlhdCI6MTc2MTc1NjAwNiwiZXhwIjoxNzYxNzU5NjA2fQ.nCGmhS1WYMrDnoNMCvgLlFZv6l9RptVogkcsiFaY8-8",
+						"value": "Bearer <paste JWT token here>",
 						"type": "text"
 					}
 				],
